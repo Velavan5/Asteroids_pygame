@@ -1,4 +1,3 @@
 # should be created by the student
-temp
-venv
-__pycache__
+venv/
+__pycache__/
